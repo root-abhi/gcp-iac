@@ -8,3 +8,4 @@ variable "google_credentials" {
   description = "Google Cloud service account credentials"
   type        = string
 }
+
