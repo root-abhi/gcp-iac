@@ -1,6 +1,6 @@
 provider "google" {
   credentials = var.google_credentials
-  project = "learning-384823"
+  project = "abc-398216"
   region  = "europe-west1"
   zone    = "europe-west1-b"
 }
